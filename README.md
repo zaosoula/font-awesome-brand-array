@@ -2,7 +2,7 @@ FontAwesome Brand Icon Array
 ===================
 
 
-**FontAwesome Brand Array** is an array of multiple written in language that identifies icons from FontAwesome with their name, color, unicode code and domain.
+**FontAwesome Brand Array** is an array of multiple written in language that identifies icons from FontAwesome (version 4.6.3) with their name, color, unicode code and domain.
 
 ----------
 
