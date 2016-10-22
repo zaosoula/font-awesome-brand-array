@@ -70,6 +70,9 @@ Authors
 
 Icons
 -------------
+
+All supported icons (95 icons)
+
 - 500px.com : fa-500px
 - amazon.com : fa-amazon
 - angel.co : fa-angellist
