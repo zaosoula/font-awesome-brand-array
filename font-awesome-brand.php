@@ -1,5 +1,5 @@
 <?php
-$fa_brand_icons = array(
+$font_awesome_brand = array(
 	'500px.com'	=> array(
 		'color'		=> '#0099e5',
 		'name'		=> '500px',
@@ -476,3 +476,4 @@ $fa_brand_icons = array(
 		'unicode'	=> '\f16a',
 	),
 );
+?>
