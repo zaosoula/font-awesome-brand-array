@@ -2,7 +2,7 @@ FontAwesome Brand Icon Array
 ===================
 
 
-**FontAwesome Brand Array** is an array of multiple written in language that identifies icons from FontAwesome (version 4.6.3) with their name, color, unicode code and domain.
+**FontAwesome Brand Array** is an array of multiple written in language that identifies icons from FontAwesome (version 4.7.0) with their name, color, unicode code and domain.
 
 ----------
 
@@ -62,8 +62,8 @@ Authors
 
 #### PHP Array
 
- - Jeremy Hixon (https://github.com/jeremyHixon) 
- 
+ - Jeremy Hixon (https://github.com/jeremyHixon)
+
 #### Other Array
 
  - Zao Soula (https://github.com/zarque)
@@ -71,11 +71,12 @@ Authors
 Icons
 -------------
 
-All supported icons (95 icons)
+All supported icons (106 icons)
 
 - 500px.com : fa-500px
 - amazon.com : fa-amazon
 - angel.co : fa-angellist
+- bandcamp.com : fa-bandcamp
 - behance.net : fa-behance
 - bitbucket.org : fa-bitbucket
 - bitcoin.org : fa-bitcoin
@@ -92,9 +93,12 @@ All supported icons (95 icons)
 - dribbble.com : fa-dribbble
 - dropbox.com : fa-dropbox
 - drupal.org : fa-drupal
+- eercast.com : fa-eercast
+- etsy.com : fa-etsy
 - facebook.com : fa-facebook
 - flickr.com : fa-flickr
 - foursquare.com : fa-foursquare
+- freecodecamp.com : fa-free-code-camp
 - getpocket.com : fa-get-pocket
 - git-scm.com : fa-git
 - github.com : fa-github
@@ -102,19 +106,21 @@ All supported icons (95 icons)
 - glide.me : fa-glide-g
 - plus.google.com : fa-google-plus
 - gratipay.com : fa-gratipay
+- getgrav.org : fa-grav
 - news.ycombinator.com : fa-hacker-news
 - houzz.com : fa-houzz
+- imdb.com : fa-imdb
 - instagram.com : fa-instagram
 - iox.host : fa-ioxhost
 - joomla.org : fa-joomla
 - jsfiddle.net : fa-jsfiddle
 - last.fm : fa-lastfm
+- linode.com : fa-linode
 - leanpub.com : fa-leanpub
 - linkedin.com : fa-linkedin
 - linuxfoundation.org : fa-linux
 - maxcdn.com : fa-maxcdn
 - medium.com : fa-medium
-- mixcloud.com : fa-mixcloud
 - modx.com : fa-modx
 - ok.ru : fa-odnoklassniki
 - odnoklassniki.ru : fa-odnoklassniki
@@ -124,7 +130,10 @@ All supported icons (95 icons)
 - paypal.com : fa-paypal
 - pinterest.com : fa-pinterest
 - producthunt.com : fa-product-hunt
+- meetup.com : fa-meetup
 - qq.com : fa-qq
+- quora.com : fa-quora
+- ravelry.com : fa-ravelry
 - reddit.com : fa-reddit-alien
 - renren.com : fa-renren
 - scribd.com : fa-scribd
@@ -143,6 +152,7 @@ All supported icons (95 icons)
 - steampowered.com : fa-steam
 - stumbleupon.com : fa-stumbleupon
 - t.qq.com : fa-tencent-weibo
+- telegram.org : fa-telegram
 - themeisle.com : fa-themeisle
 - trello.com : fa-trello
 - tripadvisor.com : fa-tripadvisor
@@ -162,6 +172,7 @@ All supported icons (95 icons)
 - wordpress.com : fa-wordpress
 - wordpress.org : fa-wordpress
 - wpbeginner.com : fa-wpbeginner
+- wpexplorer.com : fa-wpexplorer
 - xing.com : fa-xing
 - ycombinator.com : fa-y-combinator
 - yahoo.com : fa-yahoo
