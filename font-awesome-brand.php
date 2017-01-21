@@ -531,6 +531,4 @@ $font_awesome_brand = array(
 		'unicode'	=> '\f16a',
 	),
 );
-
-echo json_encode($font_awesome_brand);
 ?>
